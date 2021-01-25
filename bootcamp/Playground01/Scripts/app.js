@@ -192,19 +192,21 @@
 // }
 
 
-let students = [
-    ["Man1","Man2","Man3","Man4"],
-    ["Man5","Man6","Man7","Man8"],
-    ["Man9","Man10","Man11","Man12"],
-] 
+// let students = [
+//     ["Man1","Man2","Man3","Man4"],
+//     ["Man5","Man6","Man7","Man8"],
+//     ["Man9","Man10","Man11","Man12"],
+// ] 
 
-for (let i = 0; i<= students.length; i++){
-     const row = students[i];
-     console.log (`ROW #${i + 1}`)
-    for (let j = 0; j < row.length; j++);
+// for (let i = 0; i<= students.length; i++){
+//      const row = students[i];
+//      console.log (`ROW #${i + 1}`)
+//     for (let j = 0; j < row.length; j++);
 
-}
+// }
 
-let sayHelloTo = function (name) {
-    console.log ("Hello " + name)
-};
+// let sayHelloTo = function (name) {
+//     console.log ("Hello " + name)
+// };
+
+let pickRandomWord = function
